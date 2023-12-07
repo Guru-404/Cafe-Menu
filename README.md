@@ -4,4 +4,4 @@
 ![Cafe Menu WebPage](preview.png)
 
 ## Deployed Link:
-https://mockjoke.github.io/Cafe-Menu/
+https://guru-404.github.io/Cafe-Menu/
